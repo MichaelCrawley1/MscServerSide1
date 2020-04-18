@@ -1,0 +1,5 @@
+2020-02-12 20:52:29 0 [Note] Reading of all Master_info entries succeeded
+2020-02-12 20:52:29 0 [Note] Added new Master_info '' to hash table
+2020-02-12 20:52:29 0 [Note] d:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-02-12 20:52:29 0 [Note] InnoDB: Buffer pool(s) load completed at 200212 20:52:29
