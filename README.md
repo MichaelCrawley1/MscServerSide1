@@ -24,7 +24,7 @@ Created by Michael Crawley
 =================
 
 
--	This is the web service environment provide by the software Xampp.  For the client-side environment repository, please copy and paste the following url into your address bar: https://github.com/MichaelCrawley1/MscClientSide
+-	This is the web service environment provided by the software Xampp.  For the client-side environment repository, please copy and paste the following url into your address bar: https://github.com/MichaelCrawley1/MscClientSide
 
 -	To replicate these web performance tests please note this is for a windows environment only.  The software Xampp is a very heavy software, please expect one to two hours downloading time for each local environment.
 
